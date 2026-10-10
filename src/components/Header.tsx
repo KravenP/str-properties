@@ -103,7 +103,7 @@ const Header = () => {
           <div className="hidden md:flex items-center space-x-4">
             <div className="flex items-center text-sm text-muted-foreground">
               <Phone className="h-4 w-4 mr-2" />
-              <span>(587) 325-5253</span>
+              <span>(587) 966-8189</span>
             </div>
             <Button variant="hero" size="sm" onClick={scrollToContact}>
               Get Started
